@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.banner{
+
+    background-color: black;
+    color: white;
+    font-size: 15px;
+   
+}
+.banner i{
+    color: white;
+    padding: 2%;
+    
+   
+}
+.navbar-nav > li{
+    padding-left:40px;
+    padding-right:40px;
+    font-size: 1.2em;
+    color: black;
+    font-weight: bold;
+    
+
+  }
+  .home{
+      background-color:#9575CD;
+      color: white;
+      font-size: 1.5em;
+  }
+  
+  .form-heading h4:after{
+    border-bottom:5px solid red;
+    width: 2%;
+    content: '';
+    display: block;
+    position: relative;
+    width: 15%;
+    
+}
+.cost .row {
+    padding: 1%;
+
+}
+
+.cost button{
+    width: 100%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+.heading{
+    color: red;
+    font-weight: bold;
+    
+}
+.fast{
+    color: black;
+    font-weight: normal;
+}
+.about img{
+   height: 100%;
+    width: 100%;
+}
+.about-us{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.content{
+    font-weight: 100;
+}
+.services{
+    margin-left: 6%;
+    margin-right: 6%;
+    padding-bottom: 3%;
+}
+.service-heading{
+    color: red;
+    font-weight: bold;
+}
+
+.services .row{
+    margin-right: 8%;
+    margin-left: 8%;
+}
+.services .intro{
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 5px 10px 18px #495057;
+}
+.services .intro:hover{
+background-color: whitesmoke;
+}
+.services .badge{
+    padding: 5%;
+    margin-bottom: 6%;
+    margin-top: 2%;
+    width: 70%;
+}
+.review{
+    background-color:#9575CD;
+    color: white;
+}
+.contact i{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.contact button{
+    margin-bottom: 5%;
+}
+
+footer{
+
+    color: white;
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    position: relative;
+    padding: 2rem 2rem;
+    
+  }
+  footer i{
+      color: white;
+      padding: 5px;
+      margin-right: 8px;
+      border: 1px solid red;
+      border-radius: 5px;
+  }
+
+  @media (max-width:480px){
+.banner{
+    font-size: 8px;
+}
+.home {
+    font-size: 0.6em;
+
+}
+.home i {
+font-size: 30px;
+}
+
+  }
