@@ -31,43 +31,46 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About Us</a>
+              <a class="nav-link" href="#about">About Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Services</a>
+              <a class="nav-link" href="#services">Services</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact us</a>
+              <a class="nav-link" href="#contact">Contact us</a>
             </li>
           </ul>
         </div>
       </nav>
     </div>
     
-    <div class="jumbotron jumbotron-fluid home "data-aos="fade-in"data-aos-duration="1000">
+    <div class="jumbotron jumbotron-fluid home "data-aos="fade-in"data-aos-duration="1000" id="home">
         <div class="container">
           <p class="text-center">Book Best Packers & Movers at Lowest Price</p>
           <p class=" text-center small">Guaranteed On Time and Safe Delivery</p>
           <div class="row">
-              <div class="col-4">
+              <div class="col-12 col-sm-4">
                   <div class="icons">
                     <i class="fas fa-thumbs-up fa-3x d-flex justify-content-center"></i>
-                    <p class="text-center">100% price and service guarantee</p>
+                   <p class="text-center">Best Price</p>
+                    <p class="text-center small">100% price and service guarantee</p>
                   </div>
               </div>
-              <div class="col-4">
+              <div class="col-12 col-sm-4">
                 <div class="icons">
                     <i class="far fa-times-circle fa-3x d-flex justify-content-center"></i>
-                    <p class="text-center">Book now, cancel anytime later</p>
+                    <p class="text-center">Free Cancellation</p>
+                    <p class="text-center small">Book now, cancel anytime later</p>
                   </div>
               </div>
-              <div class="col-4">
+              <div class="col-12 col-sm-4">
                 <div class="icons">
                     <i class="fas fa-user-tie fa-3x d-flex justify-content-center"></i>
-                    <p class="text-center">Be tension free and let us take care</p>
+                   <p class="text-center">Dedicated Manager</p>
+                    <p class="text-center small">Be tension free and let us take care</p>
                   </div>
               </div>
 
@@ -116,7 +119,7 @@
               </div>
           </form>
       </div>
-      <div class="jumbotron jumbotron-fluid about"data-aos="fade-in">
+      <div class="jumbotron jumbotron-fluid about"data-aos="fade-in" id="about">
         <div class="about-us">
             <div class="row">
                 <div class="col-12 col-sm-6 "data-aos="fade-right">
@@ -132,7 +135,7 @@
      </div> 
     </div>
       </div>
-      <div class="services">
+      <div class="services" id="services">
         <h4 class="heading text-center"><span class="font-italic fast">Our </span>Services</h4>
          <p class="text-center">We are pledged to offer the premium relocation services for residential and corporate moves in and out of Hisar Region.<br>Being passionate movers in the industry, we shift your valuable goods by incorporating top quality packing material and upgrade technology</p>  
         <div class="container">
@@ -167,7 +170,7 @@
                 <span class="badge badge-danger p-2">SEE REVIEWS</span> OR <span class="badge badge-danger p-2">REVIEW US</span></p>
             </div>
           </div>
-          <div class="contact"data-aos="fade-right" data-aos-duration="1000">
+          <div class="contact" id="contact" data-aos="fade-right" data-aos-duration="1000">
             <h4 class="heading text-center"><span class="font-italic fast">GET IN TOUCH </span>WITH US</h4>
             <p class="text-center">We'd love to work with you. Please fill out the below form to get in touch with us.</p> 
           <br>
