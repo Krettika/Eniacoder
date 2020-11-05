@@ -135,7 +135,8 @@
       <div class="services">
         <h4 class="heading text-center"><span class="font-italic fast">Our </span>Services</h4>
          <p class="text-center">We are pledged to offer the premium relocation services for residential and corporate moves in and out of Hisar Region.<br>Being passionate movers in the industry, we shift your valuable goods by incorporating top quality packing material and upgrade technology</p>  
-        <div class="row align-items-center">
+        <div class="container">
+         <div class="row align-items-center">
             <div class="col-12 col-sm-6 col-md-3 d-flex justify-content-center"data-aos="flip-right"data-aos-duration="1000">
                 
                 <p class="text-center intro"><img src="images/home.png" class="mx-auto d-block p-3"><span class="service-heading">Household Shifting</span><br>We have developed expedient ways to move your household possessions or vehicles.<br><span class="badge badge-pill badge-danger">Book Now</span></p>
@@ -149,14 +150,14 @@
             <div class="col-12 col-sm-6 col-md-3 d-flex justify-content-center"data-aos="flip-right"data-aos-duration="1000">
                 
                 <p class="text-center intro"><img src="images/car-breakdown.png" class="
-                    mx-auto d-block p-3"><span class="service-heading">Car Carriers</span><br>Our car transportation services allow us to move your valuable vehicles conveniently and safely.<br><span class="badge badge-pill badge-danger">Book Now</span></p>
+                    mx-auto d-block p-3"><span class="service-heading">Car Carriers</span><br>Our car transportation services allow us to move your valuable vehicles conveniently.<br><span class="badge badge-pill badge-danger">Book Now</span></p>
             </div>
             <div class="col-12 col-sm-6 col-md-3 d-flex justify-content-center"data-aos="flip-right"data-aos-duration="1000">
                 
                 <p class="text-center intro"><img src="images/international.png" class="
                     mx-auto d-block p-3"><span class="service-heading">International Move</span><br>We are dedicated to offer excellent overseas moving services with high competency.<br><span class="badge badge-pill badge-danger">Book Now</span></p>
             </div>
-
+</div>
         </div>
         </div>
         <div class="jumbotron jumbotron-fluid review">
