@@ -83,7 +83,7 @@
           </div>
           <form class="cost">
             <div class="row">
-              <div class="col-12 col-sm-6">
+              <div class="col-12 col-sm-6 py-1">
                 
                 <select class="form-control" id="exampleFormControlSelect1">
                     <option value="" disabled selected>Within City/Outside City</option>
@@ -91,23 +91,23 @@
                   <option>Outside</option>  
                 </select>
               </div>
-              <div class="col-12 col-sm-6">
+              <div class="col-12 col-sm-6 py-1">
                 <input type="text" class="form-control" placeholder="Name*">
               </div>
             </div>
             <div class="row">
-                <div class="col-12 col-sm-6">
+                <div class="col-12 col-sm-6 py-1">
                   <input type="text" class="form-control" placeholder="Mobile Number*">
                 </div>
-                <div class="col-12 col-sm-6">
+                <div class="col-12 col-sm-6 py-1">
                   <input type="text" class="form-control" placeholder="Email Address*">
                 </div>
               </div>
               <div class="row">
-                <div class="col-12 col-sm-6">
+                <div class="col-12 col-sm-6 py-1">
                   <input type="text" class="form-control" placeholder="Location From*">
                 </div>
-                <div class="col-12 col-sm-6">
+                <div class="col-12 col-sm-6 py-1">
                   <input type="text" class="form-control" placeholder="Location To*">
                 </div>
               </div>
@@ -207,19 +207,19 @@
                   <div class="col-12 col-sm-6 align-items-center">
                       <div class="row">
                           <div class="col-1"><i class="far fa-building fa-2x"></i></div>
-                          <div class="col-11">
+                          <div class="col-11 pl-4">
                               <p>Reach to us on our<br><span class="bold">OFFICE</span><br>Ground Floor, Rajmahal Complex, Opp. PLA Petrol Pump, Delhi Road, Hisar, Haryana 125001</p>
                           </div>
                       </div>
                       <div class="row">
                         <div class="col-1"><i class="fas fa-phone-alt fa-2x"></i></div>
-                        <div class="col-11">
+                        <div class="col-11 pl-4">
                             <p>Give us a <br><span class="bold">CALL</span><br>+91 925 400 0000<br>+91 819 893 2943</p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-1"><i class="far fa-envelope fa-2x"></i></div>
-                        <div class="col-11">
+                        <div class="col-11 pl-4">
                             <p>Drop an<br><span class="bold">EMAIL</span><br>hisarfever@gmail.com<br>vikaspooria17@gmail.com</p>
                         </div>
                     </div>
